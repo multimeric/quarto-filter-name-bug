@@ -1,0 +1,9 @@
+---
+title: "Foo Example"
+filters:
+  - bar
+---
+
+## Heading
+
+This filter adds formatting to heading text.
