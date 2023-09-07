@@ -1,23 +1,7 @@
-# Foo Extension For Quarto
+To observe the bug:
 
-_TODO_: Add a short description of your extension.
-
-## Installing
-
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
-```bash
-quarto add <github-organization>/foo
 ```
-
-This will install the extension under the `_extensions` subdirectory.
-If you're using version control, you will want to check in this directory.
-
-## Using
-
-_TODO_: Describe how to use your extension.
-
-## Example
-
-Here is the source code for a minimal example: [example.qmd](example.qmd).
-
+git clone https://github.com/multimeric/quarto-filter-name-bug.git
+cd quarto-filter-name-bug
+quarto render example.qmd
+```
